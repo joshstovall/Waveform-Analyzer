@@ -30,3 +30,7 @@ Available Waveforms :
 - Saw Wave
 
 - Square Wave
+
+
+![waveform-analyzer](https://user-images.githubusercontent.com/40344766/118757134-50905580-b821-11eb-8a65-6c20989c85f3.jpg)
+
